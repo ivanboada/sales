@@ -12,12 +12,7 @@
         "maxLength": 20
       }
     },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
-    },
+    "body": "Ivan",
     "category": {
       "string": ["one", "two", "three"]
     },
