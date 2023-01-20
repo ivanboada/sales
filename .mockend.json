@@ -12,7 +12,9 @@
         "maxLength": 20
       }
     },
-    "body": "Ivan",
+    "body": {
+      "Ivan"
+    },
     "category": {
       "string": ["one", "two", "three"]
     },
@@ -42,7 +44,9 @@
     "email": {
       "regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
     },
-    "body": "Ivan",
+    "body": {
+      "Ivan"
+    },
     "createdAt": {
       "dateTime": {
         "min": "2010-01-01T00:00:00Z",
